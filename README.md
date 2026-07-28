@@ -1,39 +1,27 @@
-# Education Pals Build Pack
+# README.md
 
-- Course: `2ad65768-198c-5614-ba63-948602ecc629`
-- Chapter: `442e95ee-a73b-51c3-9dd4-0df46d67a061`
-- Template: `baw_c002_ch09`
-- Compiled: 2026-07-28T05:53:07.472Z
-- Verification token: `01KYKMHCWG9KEWVJC31QYDZS34`
-- Composition mode: `deterministic_degraded`
-- Workshop publication: `01KYKMHC5H7HC2GCYZEG2163BR`
-- Proof challenge: `883c04746c19b0fa22e1141ea566316a`
-- Artifact type: `baw.v3`
-- Repository: https://github.com/educationpals-builds/randeep-bhatia-training-run-triage-paste-the-loss-curve
+> Training-run triage — paste the loss curve, get the fracture and the fix
 
-## Variants
+## Spec
+The curve, the fracture, the guard with its before/after proof, and the one-paste rebuild block.
 
-- `README.md` → `README.md`
-- `charter.md` → `charter.md`
-- `blueprints/triage-desk.md` → `blueprints/triage-desk.md`
-- `prompts/guard-pack.md` → `prompts/guard-pack.md`
-- `tests/canary-run.md` → `tests/canary-run.md`
-- `METHOD.md` → `METHOD.md`
-- `VERIFY.md` → `VERIFY.md`
-- `.ep/provenance.json` → `.ep/provenance.json.md`
-- `workflows/restart-runbook.n8n.json` → `workflows/restart-runbook.n8n.json.md`
-- `workflows/restart-runbook.make.json` → `workflows/restart-runbook.make.json.md`
-- `workflows/restart-runbook.zapier.md` → `workflows/restart-runbook.zapier.md`
-- `runs/incident-01.md` → `runs/incident-01.md`
-- `tests/regression-board.md` → `tests/regression-board.md`
-- `config/provider.json` → `config/provider.json.md`
-- `tests/probes.jsonl` → `tests/probes.jsonl`
-- `tests/run-local.md` → `tests/run-local.md`
-- `STORY.md` → `STORY.md`
-
-## Files
-
-- `manifest.json` — verification manifest
-- `instructions.md` — paste tips per variant
+## Learner field bag
+- **blast_radius**: If it keeps running: ~$280/hour of cluster time buying zero loss reduction, and a Friday demo built on a model that stopped learning on Tuesday
+- **board_reading**: and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time
+- **curve_symptom**: Train loss: 10.4 (step 0) → 3.1 (step 2k) → 2.11 (step 8k) → 2.09 flat ±0.01 from step 8k to step 41k. Validation loss flat at 2.14. Grad norm steady 0.38–0.45. No spikes, no NaN.
+- **defaults_pack**: and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time
+- **fix_stance**: and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time
+- **fracture_diagnosis**: stride_wrong_for_the_terrain
+- **guard_line**: and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time
+- **incident_verdict**: and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time
+- **intake_channel**: and look like the progress isnt' saving for the exercies it starrts from new all the time
+- **learner_probes**: [{"entry":"and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time"},{"entry":"and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time"}]
+- **regression_check**: and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time
+- **rollout_owner**: and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time
+- **run_context**: 7B decoder, 32 layers, AdamW (β 0.9/0.95), cosine schedule with 2,000-step warmup, peak LR 3e-4, batch 1.2M tokens, clip 1.0, bf16, max_steps 60,000, legal-corpus data mix
+- **severity_ladder**: [{"entry":"and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time"},{"entry":"and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timev"},{"entry":"and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time"}]
+- **ship_gate**: and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time
+- **what_was_expected**: Loss continuing down toward ~1.7 by step 40k, with the cosine schedule still delivering a usable learning rate at that point
+- **why_this_fracture**: and look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the timeand look like the progress isnt' saving for the exercies it starrts from new all the time
 
 <!-- educationpals-build-verified -->
