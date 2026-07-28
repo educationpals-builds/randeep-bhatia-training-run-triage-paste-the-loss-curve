@@ -1,0 +1,1 @@
+Your triage compiles into the live desk and a public repo — with the before/after proof inside. The next time someone stares at a flat 2.09 wondering whether to wait, they paste it into your desk and get a reading instead of a mood.
